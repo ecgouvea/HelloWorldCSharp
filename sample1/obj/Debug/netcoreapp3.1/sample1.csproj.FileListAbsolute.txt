@@ -1,0 +1,13 @@
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.exe
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.deps.json
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.json
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.dev.json
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.dll
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\bin\Debug\netcoreapp3.1\sample1.pdb
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.csprojAssemblyReference.cache
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.csproj.CoreCompileInputs.cache
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfoInputs.cache
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfo.cs
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.dll
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.pdb
+C:\eduardocgouvea\projetos\dotnet\HelloWorldCSharp\sample1\obj\Debug\netcoreapp3.1\sample1.genruntimeconfig.cache
